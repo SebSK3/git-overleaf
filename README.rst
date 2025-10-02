@@ -1,3 +1,6 @@
+THIS IS SOFT FORK OF https://gitlab.inria.fr/sed-rennes/sharelatex/python-sharelatex/
+----
+
 Python-sharelatex is a library to interact with https://sharelatex.irisa.fr. It
 also includes a command line tools to sync your remote project with Git. This
 allows you to work offline on your project and later sync your local copy with
